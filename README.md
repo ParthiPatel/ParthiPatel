@@ -4,7 +4,7 @@
 
 - 🔭 I’m working on **App development with Kotlin, Java**
 
-- 🌱 I’m currently learning **Kotlin new concepts and Android advance**
+- 🌱 I’m currently learning **Kotlin concepts and Android advance**
 
 - 💬 Ask me about **Android, core java and ideas**
 
